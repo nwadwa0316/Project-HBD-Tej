@@ -1,12 +1,14 @@
 h1 {
     font-family: 'Lato', sans-serif;
     text-align: center;
+    color: #0A192F;;
 }
 
 h2 {
     font-family: 'Lato', sans-serif;
     text-align: center;
     text-decoration: underline;
+    color: #0A192F;;
 }
 
 h3 {
@@ -19,4 +21,8 @@ p {
 
 ul {
     font-family: 'Lato', sans-serif;
+}
+
+body {
+    background-color: #CAD3E0;
 }
