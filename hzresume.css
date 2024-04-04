@@ -1,3 +1,22 @@
 h1 {
     font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+ul {
+    font-family: 'Lato', sans-serif;
 }
